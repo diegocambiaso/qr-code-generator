@@ -7,8 +7,6 @@
 '''
 This script is for educational purposes and will let you generate a QR-Code from an URL.
 '''
-# Hello class we need to improve this script
-
 import pyqrcode
 
 __version__ = 1
